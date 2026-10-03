@@ -252,12 +252,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The msi-ec module is not loaded/installed.
-Check the &lt;About&gt; page for more info.</source>
-        <translation>Модуль msi-ec не загружен/не установлен.
-Проверьте страницу &lt;About&gt; для получения дополнительной информации.</translation>
-    </message>
-    <message>
         <source>This mode unlocks Advanced fan mode</source>
         <translation>Разблокирует расширенный режим вентилятора</translation>
     </message>

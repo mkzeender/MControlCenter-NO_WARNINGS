@@ -252,12 +252,6 @@
         <translation>-</translation>
     </message>
     <message>
-        <source>The msi-ec module is not loaded/installed.
-Check the &lt;About&gt; page for more info.</source>
-        <translation>Das msi-ec-Modul ist nicht geladen/installiert.
-Weitere Informationen finden Sie auf der Seite &lt;Über&gt;.</translation>
-    </message>
-    <message>
         <source>This mode unlocks Advanced fan mode</source>
         <translation>Dieser Modus schaltet den erweiterten Lüftermodus frei</translation>
     </message>

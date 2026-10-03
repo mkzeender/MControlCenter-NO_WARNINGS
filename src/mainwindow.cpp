@@ -156,8 +156,8 @@ MainWindow::MainWindow(QWidget *parent)
     //                                                            "Check the <About> page for more info."));
     // }
 
-    if (!operate.isEcSysModuleLoaded() && !operate.loadEcSysModule())
-        QMessageBox::critical(nullptr, this->windowTitle(), tr("The ec_sys module couldn't be detected, it might be required to control the fans."));
+    // if (!operate.isEcSysModuleLoaded() && !operate.loadEcSysModule())
+    //     QMessageBox::critical(nullptr, this->windowTitle(), tr("The ec_sys module couldn't be detected, it might be required to control the fans."));
 
 
 
