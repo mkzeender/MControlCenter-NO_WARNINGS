@@ -279,10 +279,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The ec_sys module couldn&apos;t be detected, it might be required to control the fans.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Loaded</source>
         <translation type="unfinished"></translation>
     </message>

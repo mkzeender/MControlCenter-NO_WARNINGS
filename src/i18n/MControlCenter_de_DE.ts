@@ -272,10 +272,6 @@
         <translation>Maximale Leistung auf Kosten von Wärme und erhöhtem Stromverbrauch</translation>
     </message>
     <message>
-        <source>The ec_sys module couldn&apos;t be detected, it might be required to control the fans.</source>
-        <translation>Das Modul ec_sys konnte nicht erkannt werden. Möglicherweise wird es zur Steuerung der Lüfter benötigt.</translation>
-    </message>
-    <message>
         <source>Loaded</source>
         <translation>Geladen</translation>
     </message>
